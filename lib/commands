@@ -1,0 +1,27 @@
+start - welcome NASA BOT. Happy to serve :)
+
+help - Display all commands with command description.
+
+echo - Just an echo use like /echo I LOVE YOU
+
+asteroid_stats - Get the Near Earth Object data set totals.
+
+asteroids - Retieve a paginated list of Near Earth Objects.
+
+closest_asteroids - Retrieve a list of Asteroids based on their closest approach date to Earth.
+
+eonet_categories - EONET (Earth Observatory Natural Event Tracker) categories.
+
+eonet_events - Most recent EONET (Earth Observatory Natural Event Tracker) events.
+
+eonet_layers - A reference to a specific web service (e.g., WMS, WMTS) that can be used to produce imagery of a particular NASA data parameter. Layers are mapped to categories within EONET in order to provide a category-specific list of layers (e.g., the 'Volcanoes' category is mapped to layers that can provide imagery in true color, SO2, aerosols, etc.).  epic_earth_imagery - Retrieve a paginated list of Near Earth Objects.
+
+earth_assets - The date-times and asset names for available imagery for a supplied location.
+
+earth_imagery - The Landsat 8 image for the supplied location and date. The response will include the date and URL to the image that is closest to the supplied date.
+
+mars_rover_photos - Image data gathered by NASA's Curiosity, Opportunity, and Spirit rovers on Mars and make it more easily available to other developers, educators, and citizen scientists.
+
+picture_of_the_day - The APOD imagery and associated metadata so that it can be repurposed for other applications. In addition, if the concept_tags parameter is set to True, then keywords derived from the image explanation are returned.  single_asteroid - Lookup a specific Asteroid based on its NASA JPL small body (SPK-ID) ID.
+
+
